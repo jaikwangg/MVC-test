@@ -1,0 +1,108 @@
+[
+    {
+      "id": "12345678",
+      "breed": "Moji",
+      "color": "white",
+      "ageYears": 4,
+      "ageMonths": 5
+    },
+    {
+      "id": "23456789",
+      "breed": "Chocolate",
+      "color": "brown",
+      "ageYears": 2,
+      "ageMonths": 7
+    },
+    {
+      "id": "34567891",
+      "breed": "Strawberry",
+      "color": "pink",
+      "ageYears": 5,
+      "ageMonths": 10
+    },
+    {
+      "id": "45678912",
+      "breed": "Moji",
+      "color": "white",
+      "ageYears": 6,
+      "ageMonths": 3
+    },
+    {
+      "id": "56789123",
+      "breed": "Chocolate",
+      "color": "brown",
+      "ageYears": 1,
+      "ageMonths": 11
+    },
+    {
+      "id": "67891234",
+      "breed": "Strawberry",
+      "color": "pink",
+      "ageYears": 7,
+      "ageMonths": 6
+    },
+    {
+      "id": "78912345",
+      "breed": "Moji",
+      "color": "white",
+      "ageYears": 3,
+      "ageMonths": 9
+    },
+    {
+      "id": "89123456",
+      "breed": "Chocolate",
+      "color": "brown",
+      "ageYears": 2,
+      "ageMonths": 2
+    },
+    {
+      "id": "91234567",
+      "breed": "Strawberry",
+      "color": "pink",
+      "ageYears": 6,
+      "ageMonths": 8
+    },
+    {
+      "id": "34567213",
+      "breed": "Moji",
+      "color": "white",
+      "ageYears": 5,
+      "ageMonths": 10
+    },
+    {
+      "id": "56789134",
+      "breed": "Chocolate",
+      "color": "brown",
+      "ageYears": 4,
+      "ageMonths": 4
+    },
+    {
+      "id": "78192345",
+      "breed": "Strawberry",
+      "color": "pink",
+      "ageYears": 9,
+      "ageMonths": 5
+    },
+    {
+      "id": "82345671",
+      "breed": "Moji",
+      "color": "white",
+      "ageYears": 0,
+      "ageMonths": 6
+    },
+    {
+      "id": "98451234",
+      "breed": "Chocolate",
+      "color": "brown",
+      "ageYears": 8,
+      "ageMonths": 11
+    },
+    {
+      "id": "19823456",
+      "breed": "Strawberry",
+      "color": "pink",
+      "ageYears": 10,
+      "ageMonths": 0
+    }
+  ]
+  
